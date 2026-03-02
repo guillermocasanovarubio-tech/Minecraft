@@ -1,0 +1,12 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="triocraft"
+version="1.0.0"
+displayName="TrioCraft"
+authors="Codex"
+description='''
+Mod de ejemplo TrioCraft con gema de equipo y sistema de puntos.
+'''

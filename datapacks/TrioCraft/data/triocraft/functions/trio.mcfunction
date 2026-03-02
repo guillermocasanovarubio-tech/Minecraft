@@ -1,0 +1,1 @@
+tellraw @s [{"text":"[TrioCraft] Jugador: ","color":"aqua"},{"selector":"@s","color":"white"},{"text":" | Puntuación: ","color":"aqua"},{"score":{"name":"@s","objective":"trio_points"},"color":"yellow"}]

@@ -1,0 +1,10 @@
+{
+  "criteria": {
+    "hit_entity": {
+      "trigger": "minecraft:player_hurt_entity"
+    }
+  },
+  "rewards": {
+    "function": "triocraft:add_points"
+  }
+}
